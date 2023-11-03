@@ -1,0 +1,1231 @@
+Using pre-set license
+Built from '2023.1/staging' branch; Version is '2023.1.15f1 (831263a4172c) revision 8589923'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'en' Physical Memory: 16332 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.1.15f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/PC/Documents/GitHub/OceanOdy
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+63390
+Successfully changed project path to: C:/Users/PC/Documents/GitHub/OceanOdy
+C:/Users/PC/Documents/GitHub/OceanOdy
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [1384] Host "[IP] 192.168.1.173 [Port] 0 [Flags] 2 [Guid] 1789924416 [EditorId] 1789924416 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-14HMAAQ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [1384] Host "[IP] 192.168.1.173 [Port] 0 [Flags] 2 [Guid] 1789924416 [EditorId] 1789924416 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-14HMAAQ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Library Redirect Path: Library/Refreshing native plugins compatible for Editor in 27.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.1.15f1 (831263a4172c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.1.15f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/PC/Documents/GitHub/OceanOdy/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c06)
+    Vendor:   NVIDIA
+    VRAM:     6043 MB
+    Driver:   31.0.15.3713
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.1.15f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.1.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.1.15f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56024
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.1.15f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.1.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.018067 seconds.
+- Loaded All Assemblies, in  1.145 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.808 seconds
+Domain Reload Profiling: 1942ms
+	BeginReloadAssembly (338ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (102ms)
+	RebuildNativeTypeToScriptingClass (30ms)
+	initialDomainReloadingComplete (153ms)
+	LoadAllAssembliesAndSetupDomain (510ms)
+		LoadAssemblies (326ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (491ms)
+			TypeCache.Refresh (488ms)
+				TypeCache.ScanAssembly (452ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (809ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (695ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (11ms)
+			BeforeProcessingInitializeOnLoad (67ms)
+			ProcessInitializeOnLoadAttributes (456ms)
+			ProcessInitializeOnLoadMethodAttributes (137ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\PC\Documents\GitHub\OceanOdy\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\PC\Documents\GitHub\OceanOdy\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  2.606 seconds
+Refreshing native plugins compatible for Editor in 6.27 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.680 seconds
+Domain Reload Profiling: 4272ms
+	BeginReloadAssembly (704ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (71ms)
+	RebuildCommonClasses (93ms)
+	RebuildNativeTypeToScriptingClass (29ms)
+	initialDomainReloadingComplete (95ms)
+	LoadAllAssembliesAndSetupDomain (1671ms)
+		LoadAssemblies (815ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1084ms)
+			TypeCache.Refresh (1026ms)
+				TypeCache.ScanAssembly (992ms)
+			ScanForSourceGeneratedMonoScriptInfo (46ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1681ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1230ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (212ms)
+			ProcessInitializeOnLoadAttributes (929ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (18ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (17ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 6.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 56 unused Assets / (1.2 MB). Loaded Objects now: 3933.
+Memory consumption went from 154.9 MB to 153.6 MB.
+Total: 8.002500 ms (FindLiveObjects: 0.374300 ms CreateObjectMapping: 0.205400 ms MarkObjects: 6.804000 ms  DeleteObjects: 0.616800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 459425.395058 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+  artifactKey: Guid(d82c1b31c7e74239bff1220585707d2b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt using Guid(d82c1b31c7e74239bff1220585707d2b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cc4b74fe138f158d6670cb7fbf967650') in 0.190781 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/DavePixel/PirateCoin HDRP/Materials/Brass.mat
+  artifactKey: Guid(723b7610bf604f14385806348f028ae0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin HDRP/Materials/Brass.mat using Guid(723b7610bf604f14385806348f028ae0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '929490d8b1ce3aeae0f4236fcec3cc15') in 0.075946 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Terrain/Terrain_0_0_d50ed6a8-33f7-47af-865a-3cd3c950d5cf.asset
+  artifactKey: Guid(e84e28f0db6994c4cbe88702de2e1e57) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Terrain/Terrain_0_0_d50ed6a8-33f7-47af-865a-3cd3c950d5cf.asset using Guid(e84e28f0db6994c4cbe88702de2e1e57) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd0c17d66a0cf4c987f3719a8a0191866') in 0.088483 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Terrain/TerrainData_37f06cca-5947-4471-ac84-636cac467951.asset
+  artifactKey: Guid(4902c3856f7d5364dab403989115a005) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Terrain/TerrainData_37f06cca-5947-4471-ac84-636cac467951.asset using Guid(4902c3856f7d5364dab403989115a005) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '74529ca841b44490e3145708f1d92be6') in 0.031548 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro.cginc
+  artifactKey: Guid(407bc68d299748449bbf7f48ee690f8d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMPro.cginc using Guid(407bc68d299748449bbf7f48ee690f8d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8e8845a5cb21374ceaf4a9f95c575221') in 0.021918 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+  artifactKey: Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader using Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '209e448e94208b4ba666431fe52d12c2') in 0.036374 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Pictures_Materials_Fonts/New Material.mat
+  artifactKey: Guid(2ee51c214b0f0c843b6cc8c0180c7c4d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Pictures_Materials_Fonts/New Material.mat using Guid(2ee51c214b0f0c843b6cc8c0180c7c4d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '234fb1e0295485066e36973a97349032') in 0.047243 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Scripts/HealthBar.cs
+  artifactKey: Guid(65c2f8b37ce65e14bb6ec28e69c05265) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/HealthBar.cs using Guid(65c2f8b37ce65e14bb6ec28e69c05265) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '71a74c3b3276501ef656f01f0115b9ed') in 0.025411 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/DavePixel/PirateCoin/Prefabs/PirateCoin (DarkGold).prefab
+  artifactKey: Guid(e31e8ef78f27d474d8f1f26ee9be1e79) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Prefabs/PirateCoin (DarkGold).prefab using Guid(e31e8ef78f27d474d8f1f26ee9be1e79) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a086515a4dcc69299b0b1e3827847385') in 0.055520 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd4302f153f7a90fe4122d89b3e0772e9') in 0.171937 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/seaShell/textures/hdrpMaps/seaShell_BaseColor.tga
+  artifactKey: Guid(19ea634ba038ff44b9b0afcb24bc1b41) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/seaShell/textures/hdrpMaps/seaShell_BaseColor.tga using Guid(19ea634ba038ff44b9b0afcb24bc1b41) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '10cd99040b93c9b64236776d5a8379e3') in 0.112590 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Pictures_Materials_Fonts/TerrainLayer.terrainlayer
+  artifactKey: Guid(995a58cacb27a4440934fa30a7747e93) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Pictures_Materials_Fonts/TerrainLayer.terrainlayer using Guid(995a58cacb27a4440934fa30a7747e93) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '61d349161f2ad278983299e3da29b8a5') in 0.026201 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Scripts/MoveCamera.cs
+  artifactKey: Guid(0b7d125a66a6e824eb76d429e9e357ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/MoveCamera.cs using Guid(0b7d125a66a6e824eb76d429e9e357ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a7e1967459baaf38fe9b74385ae2e188') in 0.021816 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+  artifactKey: Guid(48bb5f55d8670e349b6e614913f9d910) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader using Guid(48bb5f55d8670e349b6e614913f9d910) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'dc732590fb679af826c81ad6e46f1c77') in 0.026546 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/seaShell/3dModels/seaShellModel.fbx
+  artifactKey: Guid(e1f6c526bd96fde48be54c54223b85d1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/seaShell/3dModels/seaShellModel.fbx using Guid(e1f6c526bd96fde48be54c54223b85d1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1c8091f08ea2bc0eff2cb4a041ad55c9') in 0.111857 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 30
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/seaShell/demoScene/demo_hdrp/ReflectionProbe-2.exr
+  artifactKey: Guid(3cd0752c901450146a40bcb10a67f66c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/seaShell/demoScene/demo_hdrp/ReflectionProbe-2.exr using Guid(3cd0752c901450146a40bcb10a67f66c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a4870c91ac3d4c8556e4594c93ef97fb') in 0.060014 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/DavePixel/PirateCoin HDRP/Materials/Silver.mat
+  artifactKey: Guid(d308cdf0bcb0a174eb321157e4172e60) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin HDRP/Materials/Silver.mat using Guid(d308cdf0bcb0a174eb321157e4172e60) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5f3aa2cd9d7b42b45f5275a5d4ae3d82') in 0.023800 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/DavePixel/PirateCoin/Textures/Brass/Coin_Low_lambert1_Metallic.png
+  artifactKey: Guid(8ee1ae59740ea504099418386df75b0d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Textures/Brass/Coin_Low_lambert1_Metallic.png using Guid(8ee1ae59740ea504099418386df75b0d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b500085ccf0436ee7cbae08b0c486646') in 0.053558 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/DavePixel/PirateCoin/Textures/DarkGold/Coin_Low_lambert1_Metallic.png
+  artifactKey: Guid(086ea071f14f2804c9695c3f5c72f441) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Textures/DarkGold/Coin_Low_lambert1_Metallic.png using Guid(086ea071f14f2804c9695c3f5c72f441) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2eeab099418f58316b71a069d091a8be') in 0.050982 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Scenes/OxygenDepleted.unity
+  artifactKey: Guid(dfb58d62f4148d049aee95cccbb9b0be) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/OxygenDepleted.unity using Guid(dfb58d62f4148d049aee95cccbb9b0be) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f725dba0b8003022b46509f0731dc9b1') in 0.026382 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/DavePixel/PirateCoin/Textures/Brass/Coin_Low_lambert1_Height.png
+  artifactKey: Guid(7c6b47ecbbe975e41bb849e3ab2732a5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Textures/Brass/Coin_Low_lambert1_Height.png using Guid(7c6b47ecbbe975e41bb849e3ab2732a5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bb300cd9e6432d24816f155430bf7195') in 0.050699 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+  artifactKey: Guid(1b8d251f9af63b746bf2f7ffe00ebb9b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf using Guid(1b8d251f9af63b746bf2f7ffe00ebb9b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7defe041df6c635c424f3656f2d80b0c') in 0.020024 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/seaShell/textures/urpMaps/seaShell_Height.tga
+  artifactKey: Guid(a935e251b7a87c9479d21a4abd278e27) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/seaShell/textures/urpMaps/seaShell_Height.tga using Guid(a935e251b7a87c9479d21a4abd278e27) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'db9310c315318c4e34b4174178608aad') in 0.063813 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/seaShell/demoScene/demo_urp/bentBackground.fbx
+  artifactKey: Guid(9179c3295c0daee45bfae082186930ad) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/seaShell/demoScene/demo_urp/bentBackground.fbx using Guid(9179c3295c0daee45bfae082186930ad) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9038ab63c0123b831e013abe823e65b9') in 0.049211 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/seaShell/demoScene/demo_hdrp/Sky and Fog Volume Profile.asset
+  artifactKey: Guid(f577ec9ad56c7f140bfb11f1b90e1293) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/seaShell/demoScene/demo_hdrp/Sky and Fog Volume Profile.asset using Guid(f577ec9ad56c7f140bfb11f1b90e1293) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2b2e5678704dbf3d6e25fe3635dbface') in 0.020106 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/DavePixel/PirateCoin/Materials/Gold.mat
+  artifactKey: Guid(3712460f643bb3147889765d028e1c84) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Materials/Gold.mat using Guid(3712460f643bb3147889765d028e1c84) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '384b6a64b365953cc1813ea4d48fa922') in 0.153735 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/DavePixel/PirateCoin/Prefabs/PirateCoin.prefab
+  artifactKey: Guid(3e29573f06c0a7e4fa986fff41de17af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Prefabs/PirateCoin.prefab using Guid(3e29573f06c0a7e4fa986fff41de17af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a1d4a8ae1b48ae87fa6c9c4c588498db') in 0.045570 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/DavePixel/PirateCoin HDRP/Textures/Gold/Gold_BaseMap.png
+  artifactKey: Guid(5fbe78f5328444d42b2d5fc249b57875) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin HDRP/Textures/Gold/Gold_BaseMap.png using Guid(5fbe78f5328444d42b2d5fc249b57875) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c1efa5ff9d0233f4691eeab602c08c80') in 0.081262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/DavePixel/PirateCoin/Textures/Silver/Coin_Low_lambert1_Normal.png
+  artifactKey: Guid(ddaa6822c4954434595fd089bfee2a14) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Textures/Silver/Coin_Low_lambert1_Normal.png using Guid(ddaa6822c4954434595fd089bfee2a14) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4f917948c4b9cc78650603215bec38b1') in 0.057819 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/DavePixel/PirateCoin HDRP/Prefabs/PirateCoin (Silver) Variant.prefab
+  artifactKey: Guid(3d707ce65015cee4190386624e1c0713) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin HDRP/Prefabs/PirateCoin (Silver) Variant.prefab using Guid(3d707ce65015cee4190386624e1c0713) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0a419fea5e4c3fa0436f1e29e9db4ed1') in 0.033567 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/DavePixel/ReadMe!.rtf.txt
+  artifactKey: Guid(48da252d681834248a196d748d646268) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/ReadMe!.rtf.txt using Guid(48da252d681834248a196d748d646268) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fde90568a0f6f353317e35334d6fbf3e') in 0.021792 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+  artifactKey: Guid(d930090c0cd643c7b55f19a38538c162) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc using Guid(d930090c0cd643c7b55f19a38538c162) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4e743b6c72d1ca4a9c81f71b50cdb208') in 0.026888 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '73df9cfdf000fc11978ce7258fc0ace4') in 0.047808 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+  artifactKey: Guid(128e987d567d4e2c824d754223b3f3b0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader using Guid(128e987d567d4e2c824d754223b3f3b0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd727091acdcc917b24652a3a1a08a0ff') in 0.024754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Scripts/Collision.cs
+  artifactKey: Guid(8e88fcd0a7d20554ba45ed3de75f4b3b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/Collision.cs using Guid(8e88fcd0a7d20554ba45ed3de75f4b3b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1e8147d13dcfee4ff82929fb93aa5224') in 0.023543 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c8b4681d5860236b85696041d0441757') in 0.052117 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/DavePixel/PirateCoin/Textures/DarkGold/Coin_Low_lambert1_Roughness.png
+  artifactKey: Guid(036800bd9d6a9a34ab99edefcb608a39) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Textures/DarkGold/Coin_Low_lambert1_Roughness.png using Guid(036800bd9d6a9a34ab99edefcb608a39) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '208db34c603a760d39a1075753eb294f') in 0.053382 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/seaShell/demoScene/demo_hdrp/bentBackground.mat
+  artifactKey: Guid(9be327c5cc8b9744d93233e4ee2a54f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/seaShell/demoScene/demo_hdrp/bentBackground.mat using Guid(9be327c5cc8b9744d93233e4ee2a54f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f58f38af1c6fc2309f7265ed7efbe450') in 0.027344 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+  artifactKey: Guid(dd89cf5b9246416f84610a006f916af7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader using Guid(dd89cf5b9246416f84610a006f916af7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a888c662126051339ddb789f2257c583') in 0.033077 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/DavePixel/PirateCoin HDRP/Textures/Gold/Gold_Normal.png
+  artifactKey: Guid(b31ccd0b294224d40b0dbe83914a4895) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin HDRP/Textures/Gold/Gold_Normal.png using Guid(b31ccd0b294224d40b0dbe83914a4895) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8d22d064d9fd60794bb6eb821e60cd90') in 0.046801 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/DavePixel/PirateCoin/Textures/Gold/Materials/Coin_Low_lambert1_BaseColor.mat
+  artifactKey: Guid(8f03f0d8b4225c345b0d980b5610c3b6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Textures/Gold/Materials/Coin_Low_lambert1_BaseColor.mat using Guid(8f03f0d8b4225c345b0d980b5610c3b6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '68ff602c5731d9245e0776abfb9bec53') in 0.027904 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/DavePixel/PirateCoin HDRP/Demo/Demo/HDRP/Light inf/Sky and Fog Settings Profile.asset
+  artifactKey: Guid(914435a671753f1409006e608e8d7c15) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin HDRP/Demo/Demo/HDRP/Light inf/Sky and Fog Settings Profile.asset using Guid(914435a671753f1409006e608e8d7c15) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6f2fc184a83a53cda255e8ea3793d2fe') in 0.020198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/DavePixel/PirateCoin HDRP/Textures/Silver/Silver_Normal.png
+  artifactKey: Guid(b442f5e5f310e2849b438ec757ce5f96) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin HDRP/Textures/Silver/Silver_Normal.png using Guid(b442f5e5f310e2849b438ec757ce5f96) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b2589c24f07dfb635ea8ba737cb36bb7') in 0.051499 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/DavePixel/PirateCoin/Textures/Brass/Materials/Coin_Low_lambert1_BaseColor.mat
+  artifactKey: Guid(a4fa123bb9e6039409240ef12f7818b7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Textures/Brass/Materials/Coin_Low_lambert1_BaseColor.mat using Guid(a4fa123bb9e6039409240ef12f7818b7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3c005201b8f7f2ee3ceb238e87c49602') in 0.026701 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/DavePixel/PirateCoin HDRP/Demo/Demo.unity
+  artifactKey: Guid(8f9499ca4fe0576429765c6529ffb928) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin HDRP/Demo/Demo.unity using Guid(8f9499ca4fe0576429765c6529ffb928) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3e099e75c5989af55df072a93743389d') in 0.017228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+  artifactKey: Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader using Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '342a0de74fe39b5e98b7ca0b30f239f9') in 0.029288 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/DavePixel/PirateCoin/Materials/Silver.mat
+  artifactKey: Guid(7943be8f14bf620439377a61014df5d4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Materials/Silver.mat using Guid(7943be8f14bf620439377a61014df5d4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '45657643af014efb751e1c3eabe850d1') in 0.109294 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/DavePixel/PirateCoin HDRP/Textures/Brass/Brass_Normal.png
+  artifactKey: Guid(042030f6ce736f242aa03a64cca83095) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin HDRP/Textures/Brass/Brass_Normal.png using Guid(042030f6ce736f242aa03a64cca83095) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f55d3cc523cb7b173c85d2bd5fb734bc') in 0.052278 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/DavePixel/PirateCoin/Materials/DarkGold.mat
+  artifactKey: Guid(dfe3bdb1f74f2b24cbd1867c8829b21c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Materials/DarkGold.mat using Guid(dfe3bdb1f74f2b24cbd1867c8829b21c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9ebe36c9d5b92b96fa7ddc876838df0d') in 0.028528 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/DavePixel/PirateCoin/Textures/Brass/Coin_Low_lambert1_Roughness.png
+  artifactKey: Guid(bb7ec3119f06b5a4b9be9cc0bdac65cf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Textures/Brass/Coin_Low_lambert1_Roughness.png using Guid(bb7ec3119f06b5a4b9be9cc0bdac65cf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5229a6ff13101393969a007dca825eff') in 0.055604 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+  artifactKey: Guid(fade42e8bc714b018fac513c043d323b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt using Guid(fade42e8bc714b018fac513c043d323b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7648b3623b34908d8b7359645f7f5fb2') in 0.021137 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Pictures_Materials_Fonts/green.png
+  artifactKey: Guid(f8429f9d82dfce04daed20487e2410e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Pictures_Materials_Fonts/green.png using Guid(f8429f9d82dfce04daed20487e2410e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'aec16087231ba71852d1343f985eeb18') in 0.053806 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/DavePixel/PirateCoin/Textures/Gold/Coin_Low_lambert1_Height.png
+  artifactKey: Guid(23f84244abefde9409d25861088b5e66) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Textures/Gold/Coin_Low_lambert1_Height.png using Guid(23f84244abefde9409d25861088b5e66) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '520477c316fd469e3341470fc6ae2a23') in 0.046759 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/seaShell/prefabs/HDRP/seaShell.prefab
+  artifactKey: Guid(600526ac35c01794d9e0d806bb0ab55f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/seaShell/prefabs/HDRP/seaShell.prefab using Guid(600526ac35c01794d9e0d806bb0ab55f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4d09fcb86a771ec947110667f24941c7') in 0.028653 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Scripts/RestartGame.cs
+  artifactKey: Guid(cf9f6648a5943f547b6d049bee28955e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/RestartGame.cs using Guid(cf9f6648a5943f547b6d049bee28955e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fd550d7402cee53cf9f9a1290b125e5a') in 0.023630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Gravel608c3929b87867c.terrainlayer
+  artifactKey: Guid(7d7f60c94dfd6b648b77474ca36708b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_TerrainAutoUpgrade/layer_Gravel608c3929b87867c.terrainlayer using Guid(7d7f60c94dfd6b648b77474ca36708b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f6e68298b5ff5a60ff7bb247e46046d4') in 0.031126 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/DavePixel/PirateCoin HDRP/Textures/Brass/Brass_Color.png
+  artifactKey: Guid(d42974c81b6cc45468c9f90b7d8117ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin HDRP/Textures/Brass/Brass_Color.png using Guid(d42974c81b6cc45468c9f90b7d8117ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2fa93ab9b73bd01101263fc27bdafa12') in 0.047386 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Pictures_Materials_Fonts/Thaleah_PixelFont/ThaleahFat.fontsettings
+  artifactKey: Guid(652f7165b7c30ab46af6c4aad90a639b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Pictures_Materials_Fonts/Thaleah_PixelFont/ThaleahFat.fontsettings using Guid(652f7165b7c30ab46af6c4aad90a639b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'eef1840f1a449b3a435833623422f113') in 0.031275 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Scripts/PirateCoin.controller
+  artifactKey: Guid(5fec1a8ee293c9745b73347842987132) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/PirateCoin.controller using Guid(5fec1a8ee293c9745b73347842987132) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f1c31f6a4b1901960078440a7f1b68ff') in 0.025623 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/seaShell/demoScene/demo_hdrp/ReflectionProbe-1.exr
+  artifactKey: Guid(8bab3160d15c8e748a0b8b1641a752db) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/seaShell/demoScene/demo_hdrp/ReflectionProbe-1.exr using Guid(8bab3160d15c8e748a0b8b1641a752db) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f80edd88366bf79f7f7a6aba0dedaf7e') in 0.044602 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6ae970c516c36848b049643ecb13ab9c') in 0.135719 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/DavePixel/PirateCoin HDRP/Demo/Materials/Table.mat
+  artifactKey: Guid(0ea197a490bd26649be1abe8cf69e8af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin HDRP/Demo/Materials/Table.mat using Guid(0ea197a490bd26649be1abe8cf69e8af) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4ff07a464b5b8c089d07053161611bbf') in 0.023398 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/DavePixel/PirateCoin HDRP/Textures/Silver/Silver_BaseMap.png
+  artifactKey: Guid(d437c3bff3c1b3e4ea31fdde199b8899) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin HDRP/Textures/Silver/Silver_BaseMap.png using Guid(d437c3bff3c1b3e4ea31fdde199b8899) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '186ec39f04d8d463f0694986efd0abc8') in 0.052784 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/DavePixel/PirateCoin/Models/PirateCoin.fbx
+  artifactKey: Guid(f48a1b3e05cf7d94f9ec9b272c050643) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Models/PirateCoin.fbx using Guid(f48a1b3e05cf7d94f9ec9b272c050643) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8012e46935679425951d5af9cc4955d7') in 0.044411 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/DavePixel/PirateCoin HDRP/Demo/New HDRenderPipelineAsset.asset
+  artifactKey: Guid(2f0d8cf933c25a94184a24995cb8cdfb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin HDRP/Demo/New HDRenderPipelineAsset.asset using Guid(2f0d8cf933c25a94184a24995cb8cdfb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7861a7ccc885c60d1bf836393617af59') in 0.021230 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_Cliffs608c3929b87867c.terrainlayer
+  artifactKey: Guid(5182a008dae2c67498f34fdaa8e8728b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/_TerrainAutoUpgrade/layer_Cliffs608c3929b87867c.terrainlayer using Guid(5182a008dae2c67498f34fdaa8e8728b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '17c3591613680798f9a004571bb9143c') in 0.023670 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Scenes/Platform1.unity
+  artifactKey: Guid(5cb6bb663637e1943898ca4d67bd28b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scenes/Platform1.unity using Guid(5cb6bb663637e1943898ca4d67bd28b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f352687e00ebeab5864b8498e98fb03f') in 0.019232 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Pictures_Materials_Fonts/PlayerColour.mat
+  artifactKey: Guid(e084dcc2937bfc44aaf120641bd9d875) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Pictures_Materials_Fonts/PlayerColour.mat using Guid(e084dcc2937bfc44aaf120641bd9d875) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f67c7576f6877e49cd0c8209a82b039a') in 0.027585 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/DavePixel/PirateCoin/Materials/Brass.mat
+  artifactKey: Guid(d1cd4e374989edf4a9cdf2626ff507da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Materials/Brass.mat using Guid(d1cd4e374989edf4a9cdf2626ff507da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0d1434cf84be4467129953d6e2eb1ecf') in 0.026544 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/seaShell/textures/urpMaps/seaShell_BaseColor.tga
+  artifactKey: Guid(46a1d87f05906db4798439619c1f9396) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/seaShell/textures/urpMaps/seaShell_BaseColor.tga using Guid(46a1d87f05906db4798439619c1f9396) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '583d0721caaa6ed565bf686cadf33711') in 0.089133 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/DavePixel/PirateCoin HDRP/Textures/Brass/Brass_MaskMap.png
+  artifactKey: Guid(9a128b4529635eb4887856143d442e3b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin HDRP/Textures/Brass/Brass_MaskMap.png using Guid(9a128b4529635eb4887856143d442e3b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3dd3a04adfb4df88675a0ec50ca5f925') in 0.062742 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/DavePixel/PirateCoin/Demo/Texture/NormalMap (1).png
+  artifactKey: Guid(a5545a84b102ffa4a8a3b6ff6ec33afc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Demo/Texture/NormalMap (1).png using Guid(a5545a84b102ffa4a8a3b6ff6ec33afc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8b9a020462473c61fea2ad08a4ceb5bc') in 0.131739 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/DavePixel/PirateCoin/Textures/Silver/Coin_Low_lambert1_Height.png
+  artifactKey: Guid(0e30838686f04f945beaa6eea362d37e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Textures/Silver/Coin_Low_lambert1_Height.png using Guid(0e30838686f04f945beaa6eea362d37e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0e9fb64029e129a5730f871395bb2c82') in 0.068327 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/seaShell/demoScene/demo_hdrp/ReflectionProbe-0.exr
+  artifactKey: Guid(5e255927ccda5284391bdcd779977768) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/seaShell/demoScene/demo_hdrp/ReflectionProbe-0.exr using Guid(5e255927ccda5284391bdcd779977768) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c52eb29caaf6049f0d011f170b708029') in 0.058731 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/DavePixel/PirateCoin/Textures/DarkGold/Materials/Coin_Low_lambert1_BaseColor.mat
+  artifactKey: Guid(82b460c082ed3da40b37c0eb093d7447) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Textures/DarkGold/Materials/Coin_Low_lambert1_BaseColor.mat using Guid(82b460c082ed3da40b37c0eb093d7447) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7d9bf79463741b332f16d9c802d7c85c') in 0.029120 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+  artifactKey: Guid(3997e2241185407d80309a82f9148466) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc using Guid(3997e2241185407d80309a82f9148466) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '251f1badfaba059c8d9c44c6c630c81b') in 0.019791 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Pictures_Materials_Fonts/Thaleah_PixelFont/Thaleah_Demo.unity
+  artifactKey: Guid(180143f4a57f2124dae57257c95bc10a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Pictures_Materials_Fonts/Thaleah_PixelFont/Thaleah_Demo.unity using Guid(180143f4a57f2124dae57257c95bc10a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'faec09e959e2c330c556d1cf4338133b') in 0.018983 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000659 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+  artifactKey: Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt using Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6596b9e21d26327bad78684c3955c789') in 0.021137 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Scripts/PlayerCam.cs
+  artifactKey: Guid(8512b31153648cf49b7ba14ba1fb6765) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Scripts/PlayerCam.cs using Guid(8512b31153648cf49b7ba14ba1fb6765) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3f9b6fb0cb217b6942875e00ba29a083') in 0.026588 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/DavePixel/PirateCoin/Textures/Silver/Coin_Low_lambert1_BaseColor.png
+  artifactKey: Guid(4dc76efa630e87945b8768bc5eb13906) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Textures/Silver/Coin_Low_lambert1_BaseColor.png using Guid(4dc76efa630e87945b8768bc5eb13906) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c78cb9c2a715a33738de1e02cacf8725') in 0.048586 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/seaShell/demoScene/demo_hdrp/bentBackground.fbx
+  artifactKey: Guid(7ddb6ce7a485b59429f2a8bf66ea19ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/seaShell/demoScene/demo_hdrp/bentBackground.fbx using Guid(7ddb6ce7a485b59429f2a8bf66ea19ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '328e91f513bc72f5394f12a5fa8e7e69') in 0.038729 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/seaShell/demoScene/demo_hdrp.unity
+  artifactKey: Guid(6c78e8d6c3cb998409223b801b95249e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/seaShell/demoScene/demo_hdrp.unity using Guid(6c78e8d6c3cb998409223b801b95249e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '086c2648e99e9f9defa77c87b75a29aa') in 0.072492 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Terrain/TerrainData_08a7cbe9-1172-46b0-aba8-45af5d2e4bab.asset
+  artifactKey: Guid(66376ef6d12b56f409117c00adfdac98) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Terrain/TerrainData_08a7cbe9-1172-46b0-aba8-45af5d2e4bab.asset using Guid(66376ef6d12b56f409117c00adfdac98) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '957fddd944665abd78fe541bbd046633') in 0.047300 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/seaShell/materials/HDRP/seaShell.mat
+  artifactKey: Guid(8776b679a91a8f64e96bf81216c1c3b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/seaShell/materials/HDRP/seaShell.mat using Guid(8776b679a91a8f64e96bf81216c1c3b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f6db6ef13319d51224c5becf88354c59') in 0.022592 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/DavePixel/PirateCoin/Textures/DarkGold/Coin_Low_lambert1_Normal.png
+  artifactKey: Guid(6bb47df71a2273442b68caf761e37917) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Textures/DarkGold/Coin_Low_lambert1_Normal.png using Guid(6bb47df71a2273442b68caf761e37917) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cf050abfa4f2a34751455275febf4afe') in 0.091768 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/DavePixel/PirateCoin/Demo/Demo.unity
+  artifactKey: Guid(d520748ca2067ff40aa028979f26368b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Demo/Demo.unity using Guid(d520748ca2067ff40aa028979f26368b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '32f89b521d263fdabd11c8b5ca0472d5') in 0.023017 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/DavePixel/PirateCoin/Textures/Gold/Coin_Low_lambert1_Roughness.png
+  artifactKey: Guid(946a86598bec1524fb86f214946890c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/DavePixel/PirateCoin/Textures/Gold/Coin_Low_lambert1_Roughness.png using Guid(946a86598bec1524fb86f214946890c7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cf26ba2f6eba6f7df6bffe1dcb199b5a') in 0.051365 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\PC\Documents\GitHub\OceanOdy\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\PC\Documents\GitHub\OceanOdy\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  2.047 seconds
+Refreshing native plugins compatible for Editor in 8.76 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.131 seconds
+Domain Reload Profiling: 5163ms
+	BeginReloadAssembly (399ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (89ms)
+	RebuildCommonClasses (85ms)
+	RebuildNativeTypeToScriptingClass (33ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (1451ms)
+		LoadAssemblies (760ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (900ms)
+			TypeCache.Refresh (887ms)
+				TypeCache.ScanAssembly (854ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (3132ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1468ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (12ms)
+			BeforeProcessingInitializeOnLoad (309ms)
+			ProcessInitializeOnLoadAttributes (1052ms)
+			ProcessInitializeOnLoadMethodAttributes (52ms)
+			AfterProcessingInitializeOnLoad (22ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Refreshing native plugins compatible for Editor in 8.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3320 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 36 unused Assets / (1.2 MB). Loaded Objects now: 3936.
+Memory consumption went from 141.9 MB to 140.7 MB.
+Total: 11.693300 ms (FindLiveObjects: 0.384500 ms CreateObjectMapping: 0.213900 ms MarkObjects: 9.661800 ms  DeleteObjects: 1.430900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.03 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 13 unused Assets / (1.1 MB). Loaded Objects now: 3936.
+Memory consumption went from 91.7 MB to 90.6 MB.
+Total: 9.342500 ms (FindLiveObjects: 0.491100 ms CreateObjectMapping: 0.389400 ms MarkObjects: 7.903500 ms  DeleteObjects: 0.556700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.24 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 13 unused Assets / (1.1 MB). Loaded Objects now: 3936.
+Memory consumption went from 91.3 MB to 90.2 MB.
+Total: 7.024100 ms (FindLiveObjects: 0.468800 ms CreateObjectMapping: 0.212100 ms MarkObjects: 5.699800 ms  DeleteObjects: 0.641700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 18.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 13 unused Assets / (1.2 MB). Loaded Objects now: 3936.
+Memory consumption went from 91.3 MB to 90.1 MB.
+Total: 16.617000 ms (FindLiveObjects: 1.710300 ms CreateObjectMapping: 0.519800 ms MarkObjects: 9.889400 ms  DeleteObjects: 4.494400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 13 unused Assets / (1.2 MB). Loaded Objects now: 3936.
+Memory consumption went from 91.3 MB to 90.1 MB.
+Total: 6.561100 ms (FindLiveObjects: 0.378100 ms CreateObjectMapping: 0.202000 ms MarkObjects: 5.466600 ms  DeleteObjects: 0.512900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\PC\Documents\GitHub\OceanOdy\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\PC\Documents\GitHub\OceanOdy\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.838 seconds
+Refreshing native plugins compatible for Editor in 4.97 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.164 seconds
+Domain Reload Profiling: 3989ms
+	BeginReloadAssembly (396ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (18ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (81ms)
+	RebuildCommonClasses (83ms)
+	RebuildNativeTypeToScriptingClass (30ms)
+	initialDomainReloadingComplete (62ms)
+	LoadAllAssembliesAndSetupDomain (1252ms)
+		LoadAssemblies (755ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (708ms)
+			TypeCache.Refresh (694ms)
+				TypeCache.ScanAssembly (668ms)
+			ScanForSourceGeneratedMonoScriptInfo (4ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (2165ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (995ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (211ms)
+			ProcessInitializeOnLoadAttributes (710ms)
+			ProcessInitializeOnLoadMethodAttributes (37ms)
+			AfterProcessingInitializeOnLoad (16ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 5.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3321 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 36 unused Assets / (1.2 MB). Loaded Objects now: 3937.
+Memory consumption went from 142.2 MB to 141.0 MB.
+Total: 11.372000 ms (FindLiveObjects: 0.525500 ms CreateObjectMapping: 0.258300 ms MarkObjects: 9.388100 ms  DeleteObjects: 1.188100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 

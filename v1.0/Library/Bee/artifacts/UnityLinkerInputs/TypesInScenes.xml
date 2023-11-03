@@ -1,0 +1,33 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="CoinController" preserve="nothing"/>
+		<type fullname="CoinCount" preserve="nothing"/>
+		<type fullname="HealthBar" preserve="nothing"/>
+		<type fullname="MoveCamera" preserve="nothing"/>
+		<type fullname="OxygenBar" preserve="nothing"/>
+		<type fullname="PlayerCam" preserve="nothing"/>
+		<type fullname="PlayerMovement" preserve="nothing"/>
+		<type fullname="RestartGame" preserve="nothing"/>
+		<type fullname="RestartScript" preserve="nothing"/>
+		<type fullname="Sprint" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.TerrainTools">
+		<type fullname="TerrainGroup" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.TextMeshPro">
+		<type fullname="TMPro.TextMeshPro" preserve="nothing"/>
+		<type fullname="TMPro.TextMeshProUGUI" preserve="nothing"/>
+		<type fullname="TMPro.TMP_FontAsset" preserve="nothing"/>
+		<type fullname="TMPro.TMP_Settings" preserve="nothing"/>
+		<type fullname="TMPro.TMP_SpriteAsset" preserve="nothing"/>
+		<type fullname="TMPro.TMP_StyleSheet" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.EventSystems.EventSystem" preserve="nothing"/>
+		<type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Button" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.CanvasScaler" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.GraphicRaycaster" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.Image" preserve="nothing"/>
+	</assembly>
+</linker>
